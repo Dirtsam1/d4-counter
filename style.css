@@ -8,7 +8,8 @@ body {
   width: 100vw;
   text-align: center;
 
-background-color: rgb(85, 78, 78);}
+background-color: rgba(47, 45, 45, 0.377);
+}
 
 /** block level element -div */
 
