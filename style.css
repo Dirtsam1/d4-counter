@@ -55,7 +55,7 @@ input::-webkit-inner-spin-button {
 }
 
 .btn {
-  color: #fff;
+  color: #333;
 }
 
 @media screen and (max-width: 786px) {
