@@ -57,6 +57,9 @@ input::-webkit-inner-spin-button {
 .btn {
   color: #333;
 }
+btn: hover{
+  background-color:#333;
+  color: #fff;
 
 @media screen and (max-width: 786px) {
   h1 {
